@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: email-suite-x, gmail, outlook, temp, tool, api, automation, email, farm, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+email farm gmail outlook temp tool api automation mail-farm-tool email-suite-x email-farm-suite windows portable prebuilt x64 free download
+related: email, farm, gmail, outlook, temp, tool, api, automation
